@@ -1,0 +1,31 @@
+    /barangay-services/
+    ├── assets/
+    │   ├── css/
+    │   │   └── style.css
+    │   ├── js/
+    │   │   └── script.js
+    │   └── images/
+    ├── includes/
+    │   ├── config.php
+    │   ├── header.php
+    │   ├── footer.php
+    │   ├── auth_functions.php
+    │   └── db_functions.php
+    │   └── transaction_functions.php
+    ├── services/
+    │   ├── index.php
+    │   ├── view.php
+    │   └── manage.php
+    ├── users/
+    │   ├── profile.php
+    │   └── messages.php
+    │   └── reply.php
+    │   └── send_messages.php
+    |
+    ├── index.php
+    ├── register.php
+    ├── login.php
+    ├── logout.php
+    ├── contact.php
+    ├── about.php
+    └── search.php
